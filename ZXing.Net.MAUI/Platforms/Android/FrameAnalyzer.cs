@@ -1,8 +1,7 @@
 ﻿using AndroidX.Camera.Core;
 using Java.Nio;
 using Microsoft.Maui.Graphics;
-using System;
-using ZXing.Presentation;
+using System; 
 
 namespace ZXing.Net.Maui
 {
